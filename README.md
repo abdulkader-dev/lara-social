@@ -37,7 +37,7 @@ Be sure to fill in your database details in your `.env` file before running the 
 php artisan migration
 ```
 
-###Create an application 
+### Create an Application
 
 twitter
 
